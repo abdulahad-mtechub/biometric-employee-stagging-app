@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676326515821",
+    "project_id": "biometirc-pro",
+    "storage_bucket": "biometirc-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676326515821:android:b4ae8c61263054f184cb64",
+        "android_client_info": {
+          "package_name": "com.biometricproworkerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACaSg8cxJNPTCtwaqtw2-U85qzH2MEioE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

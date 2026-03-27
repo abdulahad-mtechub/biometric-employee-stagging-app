@@ -1,0 +1,11 @@
+<svg width="200" height="150" viewBox="0 0 200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="75" r="50" fill="#579DFF" fill-opacity="0.2"/>
+  <circle cx="100" cy="75" r="40" fill="#579DFF" fill-opacity="0.3"/>
+  <path d="M80 70C80 68.3431 81.3431 67 83 67H117C118.657 67 120 68.3431 120 70V75H80V70Z" fill="#579DFF"/>
+  <circle cx="100" cy="80" r="5" fill="#579DFF"/>
+  <path d="M100 55L100 45" stroke="#579DFF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="100" cy="40" r="3" fill="#579DFF"/>
+  <path d="M90 90L85 95" stroke="#579DFF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M110 90L115 95" stroke="#579DFF" stroke-width="2" stroke-linecap="round"/>
+  <text x="100" y="120" font-family="Arial" font-size="12" fill="#579DFF" text-anchor="middle">Coming Soon</text>
+</svg>
